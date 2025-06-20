@@ -34,5 +34,5 @@ This guide is intended to provide a general overview of the process for contribu
 * **Night Multitool for Roblox Discord**: The Night Multitool for Roblox Discord server is a great place to ask questions and get help.
 
 ## Main Contributors
-
+https://github.com/TejasPlayzYT/night-multitool-for-roblox/blob/main/Contributing/MAINCONTRIBUTORS.md
 
